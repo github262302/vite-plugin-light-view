@@ -1,0 +1,26 @@
+{
+  "name": "vite-plugin-light-view",
+  "version": "1.0.5",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">= 16.0.0"
+  },
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^20.2.1"
+  },
+  "files": [
+    "dist"
+  ],
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
