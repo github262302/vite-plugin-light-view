@@ -2,17 +2,15 @@
   vite-plugin-light-view
  </h1>
 
-<div align="center">
+<h6 align="center">
   用于vite打包的插件
-</div>
+</h6>
 
-
-
-<h1 align="center">
+<div align="center">
   
 [![npm-image]][npm-url] [![npm-download]][npm-url] [![npm-size-image]][npm-url]
   
-</h1>
+</div>
 
 [npm-image]: https://img.shields.io/npm/v/vite-plugin-light-view.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/vite-plugin-light-view
