@@ -2,11 +2,9 @@
   vite-plugin-light-view
  </h1>
 
-<div align="center">
+<h6 align="center">
   用于vite打包的插件
-</div>
-
-
+</h6>
 
 <div align="center">
   
