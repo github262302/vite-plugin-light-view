@@ -1,7 +1,23 @@
-# vite-plugin-light-view 
-用于vite打包的插件
-- [npm链接](https://www.npmjs.com/package/vite-plugin-light-view) 
+<h1 align="center">
+  vite-plugin-light-view
+ </h1>
 
+<div align="center">
+  用于vite打包的插件
+</div>
+
+
+
+<h1 align="center">
+  
+[![npm-image]][npm-url] [![npm-download]][npm-url] [![npm-size-image]][npm-url]
+  
+</h1>
+
+[npm-image]: https://img.shields.io/npm/v/vite-plugin-light-view.svg?style=flat-square
+[npm-url]: https://www.npmjs.com/package/vite-plugin-light-view
+[npm-download]: https://img.shields.io/npm/dt/vite-plugin-light-view
+[npm-size-image]: https://img.shields.io/bundlephobia/min/vite-plugin-light-view
 ## 描述
 🛸 用于单页应用预获取JS资源文件
 ## 解决问题 🐛
