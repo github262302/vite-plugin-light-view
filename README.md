@@ -8,11 +8,11 @@
 
 
 
-<h1 align="center">
+<div align="center">
   
 [![npm-image]][npm-url] [![npm-download]][npm-url] [![npm-size-image]][npm-url]
   
-</h1>
+</div>
 
 [npm-image]: https://img.shields.io/npm/v/vite-plugin-light-view.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/vite-plugin-light-view
